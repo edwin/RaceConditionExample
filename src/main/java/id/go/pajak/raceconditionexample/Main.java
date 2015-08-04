@@ -94,7 +94,10 @@ public class Main {
         ThreadNoDoc t2 = new ThreadNoDoc("Thread2", "RG02", "511", stack);
 
         t1.start();
-        Thread.sleep(50);
+        /*
+         * ubah value dibawah ini untuk simulasi selisih waktu antar query
+         */
+        Thread.sleep(200);
         t2.start();
     }
 }
