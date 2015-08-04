@@ -10,7 +10,7 @@ Tools
 
 Output Example
 --------------------
->Thread2 query nomer surat S-302PKP/WPJ.10/KP.1003/2015 for 6 ms 
+>Thread2 query nomer surat S-301PKP/WPJ.10/KP.1003/2015 for 6 ms 
 
 >Thread1 query nomer surat S-302PKP/WPJ.10/KP.1003/2015 for 6 ms 
 
